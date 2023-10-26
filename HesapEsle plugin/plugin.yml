@@ -1,0 +1,8 @@
+name: hesapesle
+api: 5.0.0
+version: 1
+main: TR8697\Main
+
+permissions:
+  hesapesle.use:
+    default: true

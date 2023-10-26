@@ -1,0 +1,19 @@
+{
+  "name": "mcpeto-bot",
+  "version": "0.0.1",
+  "description": "TR8697 yaptı",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TR8697",
+  "license": "ISC",
+  "dependencies": {
+    "discord-buttons": "^4.0.0-deprecated",
+    "discord.js": "^14.12.1",
+    "express": "^4.17.3",
+    "fs": "^0.0.1-security",
+    "minecraft-protocol": "^1.43.1",
+    "socket.io-client": "^4.7.1"
+  }
+}
