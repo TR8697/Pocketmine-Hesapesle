@@ -30,7 +30,7 @@ db.connect(err => {
 
 client.on('ready', () => {
     console.log(`[BILGI] Bot aktif.`);
-    client.user.setActivity("Test")
+    client.user.setActivity("bot aktif")
 });
 
 client.on('messageCreate', async (message) => {
